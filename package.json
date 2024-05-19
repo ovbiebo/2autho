@@ -1,6 +1,7 @@
 {
   "name": "2autho",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "build": "turbo build",
     "clean": "turbo clean",
